@@ -1,0 +1,3 @@
+[submodule "hackmanapi"]
+	path = hackmanapi
+	url = https://github.com/Jay-Madden/hackmanapi.git
